@@ -18,7 +18,7 @@
     "apollo-fetch": "^0.7.0",
     "apollo-link-http": "^1.5.17",
     "apollo-link-schema": "^1.2.5",
-    "apollo-server-micro": "^2.22.1",
+    "apollo-server-micro": "^3.11.1",
     "babel-plugin-import": "^1.13.3",
     "bcryptjs": "^2.4.3",
     "cookies": "^0.8.0",
